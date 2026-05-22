@@ -1,0 +1,7 @@
+# Visual Studio временные файлы
+.vs/
+*.user
+*.suo
+# Windows
+Thumbs.db
+Desktop.ini
